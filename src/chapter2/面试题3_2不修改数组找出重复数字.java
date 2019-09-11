@@ -1,4 +1,4 @@
-package chapter;
+package chapter2;
 
 import org.junit.Test;
 /*总结 这道题目在不要求不能改变数组的情况下，可以用上一题的解法直接得出，因为值不会超过下标

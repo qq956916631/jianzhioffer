@@ -1,4 +1,4 @@
-package chapter;
+package chapter2;
 import org.junit.Test;
 /*
  * 在一个长度为n的数组里的所有数字都在0到n-1的范围内。 数组中某些数字是重复的，但不知道有几个数字是重复的。
